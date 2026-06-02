@@ -21,7 +21,7 @@
 <img width="2397" height="1164" alt="image" src="https://github.com/user-attachments/assets/8ed2e329-8455-4768-916d-0ce1b39ed14b" />
 
 - 요청 흐름: `Client` → `Traefik (Reverse Proxy / TLS)` → `Express (Node.js)` → `MySQL`
-- 인프라: `Docker Compose` (Traefik + App 컨테이너), Let's Encrypt 인증서 적용
+- 인프라: `Docker Compose` (Traefik & App 컨테이너), Let's Encrypt 인증서 적용
 
 ## ERD
 
