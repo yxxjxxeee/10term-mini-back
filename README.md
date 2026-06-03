@@ -16,6 +16,20 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
+## 서비스 화면
+
+| 메인 | 로그인 |
+|---|---|
+| <img width="100%" src="https://github.com/user-attachments/assets/8b20ebad-a25f-4999-9fc1-f431cce91da2" /> | <img width="100%" src="https://github.com/user-attachments/assets/8ef69262-b8ff-4206-a842-1f440973456c" /> |
+
+| 관심목록 | 마이페이지 |
+|---|---|
+| <img width="100%" src="https://github.com/user-attachments/assets/d8cf5932-e08a-4326-b5c6-1b6fe19cd6d8" /> | <img width="100%" src="https://github.com/user-attachments/assets/0d044ad8-9c0f-4eb8-8c72-9e657111db2e" /> |
+
+| 웹툰 상세 | 검색 결과 |
+|---|---|
+| <img width="100%" src="https://github.com/user-attachments/assets/b0ab0f14-a802-4394-8bae-cfa11b15e757" /> | <img width="100%" src="https://github.com/user-attachments/assets/3c5ce261-de56-4326-95ed-70622e53db92" /> |
+
 ## System Architecture
 
 <img width="2397" height="1164" alt="image" src="https://github.com/user-attachments/assets/8ed2e329-8455-4768-916d-0ce1b39ed14b" />
