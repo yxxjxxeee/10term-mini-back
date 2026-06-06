@@ -41,7 +41,7 @@
 
 <img width="1770" height="720" alt="인덕툰(induktoon)" src="https://github.com/user-attachments/assets/6a67009f-7dd0-4510-9d81-1049f9b5d272" />
 
-## 멤버
+## Members
 
 <table>
   <tr>
