@@ -82,4 +82,4 @@
 - 실행 환경: Docker Compose 기반 Traefik·애플리케이션 컨테이너 구성
 - HTTPS: Let's Encrypt 인증서 자동 발급 및 갱신
 
-<img width="2278" height="1056" alt="induktoon" src="https://github.com/user-attachments/assets/afa83e99-4a65-4865-972d-c4deb2effeed" />
+<img width="2308" height="1012" alt="induktoon" src="https://github.com/user-attachments/assets/f6e0d476-c600-4175-a84b-58ea91f048c0" />
